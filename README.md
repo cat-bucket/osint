@@ -1,1 +1,1 @@
-osint
+[中文](./README-CN.md)
