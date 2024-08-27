@@ -12,4 +12,4 @@
 
 [CIRT](https://cirt.net/passwords) 各种设备，服务的默认密码列表
 
-[ROUTER](https://www.routerpasswords.com/)路由器默认密码列表
+[ROUTER](https://www.routerpasswords.com/) 路由器默认密码列表
